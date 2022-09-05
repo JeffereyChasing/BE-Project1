@@ -3,3 +3,8 @@ h1 {
     color: cornflowerblue;
   }
   
+input{
+    display:block;
+    box-sizing: border-box;
+  }
+  
