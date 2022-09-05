@@ -13,6 +13,6 @@ app.get("*",(req,res) => {
   
   })
 
-app.listen(process.env.data)
+app.listen(process.env.PORT)
 
 
