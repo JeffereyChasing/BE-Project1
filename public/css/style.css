@@ -11,6 +11,7 @@ input{
   nav {
     background-color: cornflowerblue;
     padding: 10px;
+    text-align: center;
 }
 
 nav ul {
@@ -35,7 +36,7 @@ nav a:hover {
 
 body {
   background-color: lightblue;
-  text-align: center;
+
 }
 
 main {
